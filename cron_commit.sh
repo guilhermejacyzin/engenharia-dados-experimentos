@@ -9,5 +9,5 @@ git add -A
 git commit -m "Commit automático - $(date '+%Y-%m-%d %H:%M:%S')" --allow-empty
 
 # Envia para o repositório remoto
-git push origin mestre
+git push origin main
 
